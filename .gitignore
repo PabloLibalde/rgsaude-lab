@@ -1,0 +1,18 @@
+# node modules
+node_modules
+
+# build files
+dist
+
+# images
+# src/images
+# images
+
+
+# temp
+tmp
+
+# compressed
+*.zip
+*.rar
+*.7zip
